@@ -188,7 +188,7 @@ p {
   border-radius: 10px;
 }
 
-/*xmp {
+xmp {
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
@@ -196,7 +196,7 @@ p {
   word-wrap: break-word;
 }
 
-#progress {
+/*#progress {
   color: rgb(135, 216, 216);
   font-size: 18px;
 }
