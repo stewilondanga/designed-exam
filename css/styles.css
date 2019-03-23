@@ -29,7 +29,7 @@ body {
 .my_social {
   position: absolute;
   top: 25px;
-  left: 25px;
+  left: 925px;
 }
 
 .my_social a {
@@ -228,7 +228,7 @@ xmp {
   color: #c0c0c0;
   padding-top: 50px;
   padding-bottom: 10px;
-  width: 375px;
+  width: 250px;
   margin: 0 auto;
   border-bottom: 3px solid #f3f3f3;
 }
