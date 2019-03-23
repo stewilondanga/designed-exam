@@ -171,7 +171,7 @@ p {
   height: 70px;
 }
 
-/*#btn0,
+#btn0,
 #btn1,
 #btn2,
 #btn3 {
@@ -188,7 +188,7 @@ p {
   border-radius: 10px;
 }
 
-xmp {
+/*xmp {
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
