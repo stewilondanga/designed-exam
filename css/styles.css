@@ -2,6 +2,10 @@ html {
   background: radial-gradient(rgb(33, 81, 85), rgba(11, 55, 58, 1));
 }
 
+body {
+  background: radial-gradient(rgba(11, 55, 58, 1), rgba(33, 81, 85));
+}
+
 /*
 
 .my_social {
@@ -20,9 +24,6 @@ html {
 }
 
 
-body {
-    background: radial-gradient(rgba(11, 55, 58, 1), rgba(33, 81, 85));
-}
 
 html,
 body {
