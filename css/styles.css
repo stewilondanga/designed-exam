@@ -165,13 +165,13 @@ p {
   flex-flow: row wrap;
 }
 
-/*.btn-flex {
+.btn-flex {
   margin: 0;
   width: 350px;
   height: 70px;
 }
 
-#btn0,
+/*#btn0,
 #btn1,
 #btn2,
 #btn3 {
