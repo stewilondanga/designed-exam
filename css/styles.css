@@ -114,7 +114,7 @@ body {
   text-align: center;
 }
 
-/*.style_hr:after {
+.style_hr:after {
   background: rgba(33, 95, 95, 0);
   display: inline-block;
   font: "BodoniXT" !important;
@@ -125,7 +125,7 @@ body {
   top: -0.7em;
 }
 
-#score {
+/*#score {
   background: radial-gradient(circle, rgba(33, 95, 95, .5) 0%, rgba(37, 95, 95, 1) 100%);
   text-align: center;
   font-size: 4em;
