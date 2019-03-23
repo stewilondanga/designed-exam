@@ -196,12 +196,12 @@ xmp {
   word-wrap: break-word;
 }
 
-/*#progress {
+#progress {
   color: rgb(135, 216, 216);
   font-size: 18px;
 }
 
-#btn0:hover,
+/*#btn0:hover,
 #btn1:hover,
 #btn2:hover,
 #btn3:hover {
