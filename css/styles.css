@@ -1,3 +1,7 @@
+html {
+  background: radial-gradient(rgb(33, 81, 85), rgba(11, 55, 58, 1));
+}
+
 /*
 
 .my_social {
@@ -15,9 +19,6 @@
   height: 1.5em;
 }
 
-html {
-    background: radial-gradient(rgb(33, 81, 85), rgba(11, 55, 58, 1));
-}
 
 body {
     background: radial-gradient(rgba(11, 55, 58, 1), rgba(33, 81, 85));
