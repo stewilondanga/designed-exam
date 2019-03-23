@@ -41,22 +41,22 @@ body {
   height: 1.5em;
 }
 
-/*.grid {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    max-width: -webkit-fit-content;
-    max-width: -moz-fit-content;
-    max-width: fit-content;
-    margin: 0 auto;
-    padding: 10px 20px 20px 20px;
-    border-radius: 20px;
-    border: 2px solid rgb(37, 95, 95);
-    -webkit-box-shadow: 10px 15px 5px rgb(33, 95, 95);
-            box-shadow: 10px 15px 5px rgb(33, 95, 95);
+.grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: -webkit-fit-content;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  padding: 10px 20px 20px 20px;
+  border-radius: 20px;
+  border: 2px solid rgb(37, 95, 95);
+  -webkit-box-shadow: 10px 15px 5px rgb(33, 95, 95);
+  box-shadow: 10px 15px 5px rgb(33, 95, 95);
 }
 
-.quiz {
+/*.quiz {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
